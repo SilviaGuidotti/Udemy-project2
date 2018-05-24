@@ -1,5 +1,4 @@
-# Udemy-project2
-Udemy - Nexter
+# Udemy - Nexter
 
 Project from Udemy course Advanced CSS and Sass
 
